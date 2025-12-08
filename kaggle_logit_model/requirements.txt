@@ -1,4 +1,5 @@
 pandas==2.3.3
 opendatasets==0.1.2
 kagglehub==0.3.13
-scikit-learn==1.7.
+scikit-learn==1.7.2
+kaggle==1.7.4.5
